@@ -8,7 +8,7 @@
 
 **Dataset:**
 
-The dataset is based on a company’s sales data with quantity, Unit price, sales person, product, month, region, city, and sales date. 
+The dataset is based on a company’s sales data with quantity, Unit price, salesperson, product, month, region, city, and sales date. 
 
 **Charts:**
 
